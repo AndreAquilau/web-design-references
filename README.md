@@ -35,6 +35,6 @@
 
 
 #### Livros 
-> **Livro - Elementos do Estilo Tipográfico.**
+> **Livro - Elementos do Estilo Tipográfico.** <br>
 > **Design para quem não é designer de Robin Williams.**
 
